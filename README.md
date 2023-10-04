@@ -6,6 +6,8 @@ script to a hotkey after being triggered will create screenshots named after the
 after the application's windows game limited to 32 characters. So when you make a screenshot will be organized in a directory named after the game 
 with a date time in a folder of the same name.
 
+Also make what ever changes you want to this script any contributions are welcomed and credit me for creating this script.
+
 Requirements: scrot, xdotool
 
 scrot is needed to take screensots.
