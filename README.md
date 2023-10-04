@@ -19,7 +19,7 @@ xdotool can be installed with the following command:
 sudo apt-get install xdotool
 
 The script can be saved in any directory. In your Linux menu search for the application called 'Keyboard' or its equivalent in your distro 
-and set up a hotkey for taking screen shots in games. I use 'ctrl' '+'. The screenshots will be saved in '~/Pictures/Screensots/'. 
+and set up a hotkey for taking screen shots in games. I use 'ctrl' '+' (numpad). The screenshots will be saved in '~/Pictures/Screensots/'. 
 The screenshots will be named after the window opened so if you are looking at your desktop that screenshots folder will be named 'Desktop'.
 The screenshots will immediately capture the image with no delay the first hotkey press may need to create the directory first if the directory 
 does not exist. Have fun.
